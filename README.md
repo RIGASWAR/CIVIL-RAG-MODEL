@@ -11,6 +11,22 @@ CIVIL-RAG-MODEL enables users to upload civil engineering documents and interact
 The system retrieves relevant information from technical documents, standards, reports, and datasets, then generates contextual responses using advanced language models.
 
 ---
+## Screenshots
+
+### Home Page
+![Home Page](screenshots/home-page.png)
+
+### Document Upload & Indexing
+![Upload](screenshots/document-upload.png)
+
+### AI Question Answering
+![Answer](screenshots/answer-demo.png)
+
+### Advanced RAG Query
+![Advanced Query](screenshots/advanced-rag-demo.png)
+
+### Recommendation Generation
+![Recommendation](screenshots/recommendation-demo.png)
 
 ## Features
 
